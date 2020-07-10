@@ -1,0 +1,3 @@
+export const CHECK_LOGIN_LINK = "CHECK_LOGIN_LINK";
+
+
